@@ -1,1 +1,3 @@
-(7th) is this changing selectable? 
+(7th) is this changed with selected files? 
+
+(8th) We (1st, 2nd) are changed, but not be reflected. 
