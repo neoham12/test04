@@ -1,2 +1,4 @@
 (9th) could this file move to the other repo? 
-
+(failed, non-fast-forward problem is occured.
+- test03.txt is changed, but command 'git status' did not notice about the changing. 
+ 
